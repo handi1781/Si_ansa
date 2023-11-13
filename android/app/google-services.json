@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "538608622751",
+    "project_id": "ansa-f8bfe",
+    "storage_bucket": "ansa-f8bfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538608622751:android:c72759d6edb871d63dd6aa",
+        "android_client_info": {
+          "package_name": "com.example.si_ansa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDov3iJMQfWAsuE29zJSP8iaeL26e4EyY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
